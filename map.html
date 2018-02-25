@@ -137,7 +137,7 @@ function showBarChart(name){
     var margin = {top: 10, right: 20, bottom: 30, left: 60},
                 width = 450 - margin.left - margin.right,
                 height = 320 - margin.top - margin.bottom;
-    d3.csv("query_result.csv", function(data) {
+    d3.csv("query_result3.csv", function(data) {
         // set the ranges
         var x = d3.scaleTime().range([0, width]);
         var y = d3.scaleLinear().range([height, 0]);
@@ -149,8 +149,8 @@ function showBarChart(name){
         //         .style("opacity", 0);
         var county_data = new Array();
         for(var d in data){
-            if( data[d].county === name && data[d].datayear < "2017") {
-                data[d].datayear = new Date(data[d].datayear);
+            if( data[d].county === name && data[d].dateyear < "2017") {
+                data[d].dateyear = new Date(data[d].dateyear);
                 county_data.push(data[d]);
             }
         }
@@ -165,26 +165,48 @@ function showBarChart(name){
         // format the data
         county_data.forEach(function(d) {
           d.totalpopulation = +d.totalpopulation;  //+ tries to cast x to a number.
+          d.total_housing_units = +d.total_housing_units;
         });
 
         // Scale the range of the data, using d3.max to create y scale
-        x.domain([new Date('1985'), new Date('2017')]);//d3.extent(county_data, function(d) { return new Date(d.datayear); }));
-        y.domain([d3.min(county_data, function(d) { return d.totalpopulation; })-10, d3.max(county_data, function(d) { return d.totalpopulation; })]);
+        var min = Math.min(d3.min(county_data, function(d) { return d.total_housing_units; }), d3.min(county_data, function(d) { return d.totalpopulation; }))
+        var max = Math.max(d3.max(county_data, function(d) { return d.total_housing_units; }), d3.max(county_data, function(d) { return d.totalpopulation; }))
+        x.domain([new Date('1985'), new Date('2017')]);//d3.extent(county_data, function(d) { return new Date(d.dateyear); }));
+        y.domain([min*0.9, max*1.1]);
         var valueline = d3.line()
-            .x(function(d) { return x(new Date(d.datayear)); })
+            .x(function(d) { return x(new Date(d.dateyear)); })
             .y(function(d) { return y(d.totalpopulation); });
+
+        var valueline2 = d3.line()
+            .x(function(d) { return x(new Date(d.dateyear)); })
+            .y(function(d) { return y(d.total_housing_units); });
+
         svg.append("path")
             .data([county_data])
             .attr("class", "line")
             .attr("d", valueline);
+
+        svg.append("path")		// Add the valueline2 path.
+            .data([county_data])
+    		.attr("class", "line")
+    		.style("stroke", "red")
+    		.attr("d", valueline2);
         // Add the scatterplot
         svg.selectAll("dot")
           .data(county_data)
         .enter().append("circle")
           .attr("r", 3)
-          .attr("cx", function(d) { return x(d.datayear); })
+          .attr("cx", function(d) { return x(d.dateyear); })
           .attr("cy", function(d) { return y(d.totalpopulation); })
           .style("fill", function(d) { return d3.rgb("darkblue")});
+
+          svg.selectAll("dot")
+            .data(county_data)
+          .enter().append("circle")
+            .attr("r", 3)
+            .attr("cx", function(d) { return x(d.dateyear); })
+            .attr("cy", function(d) { return y(d.total_housing_units); })
+            .style("fill", function(d) { return d3.rgb("darkred")});
           //on mouse click
           // .on("click", function(d) {
           //       console.log(d);
