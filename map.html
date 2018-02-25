@@ -145,10 +145,10 @@ function showBarChart(name){
         });
 
         // Scale the range of the data, using d3.max to create y scale
-        x.domain(d3.extent(county_data, function(d) { return d.datayear; }));
+        x.domain(d3.extent(county_data, function(d) { return new Date(d.datayear); }));
         y.domain([d3.min(county_data, function(d) { return d.totalpopulation; })-10, d3.max(county_data, function(d) { return d.totalpopulation; })]);
         var valueline = d3.line()
-            .x(function(d) { return x(d.datayear); })
+            .x(function(d) { return x(new Date(d.datayear)); })
             .y(function(d) { return y(d.totalpopulation); });
         svg.append("path")
             .data([county_data])
