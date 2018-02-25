@@ -34,7 +34,7 @@
 
 </style>
 <body>
-    <h1>Colorado Voter Data</h1>
+    <h1>Colorado County Population Data</h1>
     <div id="map">
 	</div>
 </body>
@@ -128,6 +128,7 @@ function showBarChart(name){
         var county_data = new Array();
         for(var d in data){
             if( data[d].county === name && data[d].datayear < "2017") {
+                data[d].datayear = new Date(data[d].datayear);
                 county_data.push(data[d]);
             }
         }
