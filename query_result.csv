@@ -1,4 +1,29 @@
 "county","datayear","totalpopulation"
+"Adams",1985,268764
+"Adams",1986,268643
+"Adams",1987,269323
+"Adams",1988,269019
+"Adams",1989,266771
+"Adams",1990,265708
+"Adams",1991,273624
+"Adams",1992,281385
+"Adams",1993,290777
+"Adams",1994,300794
+"Adams",1995,312593
+"Adams",1996,323042
+"Adams",1997,332744
+"Adams",1998,344024
+"Adams",1999,355308
+"Adams",2000,351735
+"Adams",2001,359437
+"Adams",2002,371181
+"Adams",2003,377665
+"Adams",2004,385945
+"Adams",2005,395384
+"Adams",2006,407587
+"Adams",2007,415915
+"Adams",2008,425138
+"Adams",2009,436323
 "Adams",2010,443711
 "Adams",2011,451749
 "Adams",2012,460064
@@ -6,9 +31,31 @@
 "Adams",2014,479777
 "Adams",2015,489923
 "Adams",2016,497673
-"Adams",2017,268764
-"Adams",2018,268764
-"Adams",2019,268764
+"Alamosa",1985,13011
+"Alamosa",1986,13336
+"Alamosa",1987,13427
+"Alamosa",1988,13715
+"Alamosa",1989,13660
+"Alamosa",1990,13630
+"Alamosa",1991,13639
+"Alamosa",1992,13572
+"Alamosa",1993,13657
+"Alamosa",1994,13823
+"Alamosa",1995,14097
+"Alamosa",1996,14322
+"Alamosa",1997,14478
+"Alamosa",1998,14623
+"Alamosa",1999,14822
+"Alamosa",2000,15099
+"Alamosa",2001,15231
+"Alamosa",2002,15266
+"Alamosa",2003,15360
+"Alamosa",2004,15406
+"Alamosa",2005,15395
+"Alamosa",2006,15350
+"Alamosa",2007,15293
+"Alamosa",2008,15346
+"Alamosa",2009,15301
 "Alamosa",2010,15474
 "Alamosa",2011,15679
 "Alamosa",2012,15687
@@ -16,9 +63,31 @@
 "Alamosa",2014,15845
 "Alamosa",2015,15968
 "Alamosa",2016,16131
-"Alamosa",2017,268764
-"Alamosa",2018,268764
-"Alamosa",2019,268764
+"Arapahoe",1985,381244
+"Arapahoe",1986,387244
+"Arapahoe",1987,388687
+"Arapahoe",1988,386723
+"Arapahoe",1989,389502
+"Arapahoe",1990,393284
+"Arapahoe",1991,403202
+"Arapahoe",1992,417681
+"Arapahoe",1993,427470
+"Arapahoe",1994,436405
+"Arapahoe",1995,442539
+"Arapahoe",1996,451065
+"Arapahoe",1997,459058
+"Arapahoe",1998,472399
+"Arapahoe",1999,481306
+"Arapahoe",2000,490722
+"Arapahoe",2001,501671
+"Arapahoe",2002,510503
+"Arapahoe",2003,516354
+"Arapahoe",2004,523715
+"Arapahoe",2005,528214
+"Arapahoe",2006,536051
+"Arapahoe",2007,545882
+"Arapahoe",2008,556246
+"Arapahoe",2009,566480
 "Arapahoe",2010,574819
 "Arapahoe",2011,585507
 "Arapahoe",2012,595776
@@ -26,9 +95,31 @@
 "Arapahoe",2014,617936
 "Arapahoe",2015,629066
 "Arapahoe",2016,637254
-"Arapahoe",2017,268764
-"Arapahoe",2018,268764
-"Arapahoe",2019,268764
+"Archuleta",1985,5213
+"Archuleta",1986,5335
+"Archuleta",1987,5265
+"Archuleta",1988,5004
+"Archuleta",1989,5196
+"Archuleta",1990,5393
+"Archuleta",1991,5626
+"Archuleta",1992,5880
+"Archuleta",1993,6177
+"Archuleta",1994,6539
+"Archuleta",1995,7108
+"Archuleta",1996,7928
+"Archuleta",1997,8534
+"Archuleta",1998,9133
+"Archuleta",1999,9570
+"Archuleta",2000,10043
+"Archuleta",2001,10465
+"Archuleta",2002,10700
+"Archuleta",2003,10964
+"Archuleta",2004,11171
+"Archuleta",2005,11402
+"Archuleta",2006,11798
+"Archuleta",2007,12108
+"Archuleta",2008,12074
+"Archuleta",2009,11899
 "Archuleta",2010,12060
 "Archuleta",2011,12003
 "Archuleta",2012,12109
@@ -36,9 +127,31 @@
 "Archuleta",2014,12258
 "Archuleta",2015,12417
 "Archuleta",2016,12907
-"Archuleta",2017,268764
-"Archuleta",2018,268764
-"Archuleta",2019,268764
+"Baca",1985,4873
+"Baca",1986,4587
+"Baca",1987,4559
+"Baca",1988,4728
+"Baca",1989,4629
+"Baca",1990,4526
+"Baca",1991,4441
+"Baca",1992,4302
+"Baca",1993,4326
+"Baca",1994,4391
+"Baca",1995,4428
+"Baca",1996,4526
+"Baca",1997,4562
+"Baca",1998,4531
+"Baca",1999,4523
+"Baca",2000,4499
+"Baca",2001,4447
+"Baca",2002,4315
+"Baca",2003,4258
+"Baca",2004,4166
+"Baca",2005,4098
+"Baca",2006,4088
+"Baca",2007,3993
+"Baca",2008,3906
+"Baca",2009,3814
 "Baca",2010,3795
 "Baca",2011,3799
 "Baca",2012,3746
@@ -46,9 +159,31 @@
 "Baca",2014,3624
 "Baca",2015,3594
 "Baca",2016,3557
-"Baca",2017,268764
-"Baca",2018,268764
-"Baca",2019,268764
+"Bent",1985,5699
+"Bent",1986,5729
+"Bent",1987,5432
+"Bent",1988,5432
+"Bent",1989,5210
+"Bent",1990,5027
+"Bent",1991,4960
+"Bent",1992,5040
+"Bent",1993,5350
+"Bent",1994,5400
+"Bent",1995,5549
+"Bent",1996,5623
+"Bent",1997,5640
+"Bent",1998,5993
+"Bent",1999,5996
+"Bent",2000,5967
+"Bent",2001,5882
+"Bent",2002,6203
+"Bent",2003,6653
+"Bent",2004,6357
+"Bent",2005,6261
+"Bent",2006,6076
+"Bent",2007,5773
+"Bent",2008,6008
+"Bent",2009,6481
 "Bent",2010,6506
 "Bent",2011,6304
 "Bent",2012,5778
@@ -56,9 +191,31 @@
 "Bent",2014,5747
 "Bent",2015,5847
 "Bent",2016,5626
-"Bent",2017,268764
-"Bent",2018,268764
-"Bent",2019,268764
+"Boulder",1985,209444
+"Boulder",1986,211841
+"Boulder",1987,214222
+"Boulder",1988,218380
+"Boulder",1989,222354
+"Boulder",1990,226014
+"Boulder",1991,230977
+"Boulder",1992,238397
+"Boulder",1993,247275
+"Boulder",1994,252725
+"Boulder",1995,257500
+"Boulder",1996,261765
+"Boulder",1997,266063
+"Boulder",1998,274115
+"Boulder",1999,283924
+"Boulder",2000,276255
+"Boulder",2001,283510
+"Boulder",2002,284433
+"Boulder",2003,282763
+"Boulder",2004,283288
+"Boulder",2005,282910
+"Boulder",2006,286133
+"Boulder",2007,288757
+"Boulder",2008,291827
+"Boulder",2009,293641
 "Boulder",2010,295605
 "Boulder",2011,300171
 "Boulder",2012,305016
@@ -66,9 +223,31 @@
 "Boulder",2014,313190
 "Boulder",2015,318570
 "Boulder",2016,321989
-"Boulder",2017,268764
-"Boulder",2018,268764
-"Boulder",2019,268764
+"Broomfield",1985,0
+"Broomfield",1986,0
+"Broomfield",1987,0
+"Broomfield",1988,0
+"Broomfield",1989,0
+"Broomfield",1990,0
+"Broomfield",1991,0
+"Broomfield",1992,0
+"Broomfield",1993,0
+"Broomfield",1994,0
+"Broomfield",1995,0
+"Broomfield",1996,0
+"Broomfield",1997,0
+"Broomfield",1998,0
+"Broomfield",1999,0
+"Broomfield",2000,38544
+"Broomfield",2001,41387
+"Broomfield",2002,42432
+"Broomfield",2003,44960
+"Broomfield",2004,46406
+"Broomfield",2005,48251
+"Broomfield",2006,51152
+"Broomfield",2007,53328
+"Broomfield",2008,54400
+"Broomfield",2009,55378
 "Broomfield",2010,56107
 "Broomfield",2011,57211
 "Broomfield",2012,58715
@@ -76,9 +255,31 @@
 "Broomfield",2014,61554
 "Broomfield",2015,64656
 "Broomfield",2016,66252
-"Broomfield",2017,268764
-"Broomfield",2018,268764
-"Broomfield",2019,268764
+"Chaffee",1985,12349
+"Chaffee",1986,12473
+"Chaffee",1987,12453
+"Chaffee",1988,12390
+"Chaffee",1989,12559
+"Chaffee",1990,12706
+"Chaffee",1991,12864
+"Chaffee",1992,13121
+"Chaffee",1993,13700
+"Chaffee",1994,14107
+"Chaffee",1995,14656
+"Chaffee",1996,15125
+"Chaffee",1997,15406
+"Chaffee",1998,15526
+"Chaffee",1999,15936
+"Chaffee",2000,16312
+"Chaffee",2001,16410
+"Chaffee",2002,16646
+"Chaffee",2003,16794
+"Chaffee",2004,16946
+"Chaffee",2005,17022
+"Chaffee",2006,16984
+"Chaffee",2007,17238
+"Chaffee",2008,17403
+"Chaffee",2009,17604
 "Chaffee",2010,17797
 "Chaffee",2011,18012
 "Chaffee",2012,18123
@@ -86,9 +287,31 @@
 "Chaffee",2014,18459
 "Chaffee",2015,18603
 "Chaffee",2016,19097
-"Chaffee",2017,268764
-"Chaffee",2018,268764
-"Chaffee",2019,268764
+"Cheyenne",1985,2294
+"Cheyenne",1986,2185
+"Cheyenne",1987,2097
+"Cheyenne",1988,2208
+"Cheyenne",1989,2314
+"Cheyenne",1990,2413
+"Cheyenne",1991,2476
+"Cheyenne",1992,2407
+"Cheyenne",1993,2306
+"Cheyenne",1994,2291
+"Cheyenne",1995,2269
+"Cheyenne",1996,2284
+"Cheyenne",1997,2295
+"Cheyenne",1998,2343
+"Cheyenne",1999,2279
+"Cheyenne",2000,2216
+"Cheyenne",2001,2173
+"Cheyenne",2002,2162
+"Cheyenne",2003,2119
+"Cheyenne",2004,2070
+"Cheyenne",2005,2041
+"Cheyenne",2006,1977
+"Cheyenne",2007,1910
+"Cheyenne",2008,1898
+"Cheyenne",2009,1833
 "Cheyenne",2010,1834
 "Cheyenne",2011,1864
 "Cheyenne",2012,1875
@@ -96,9 +319,31 @@
 "Cheyenne",2014,1847
 "Cheyenne",2015,1830
 "Cheyenne",2016,1853
-"Cheyenne",2017,268764
-"Cheyenne",2018,268764
-"Cheyenne",2019,268764
+"Clear Creek",1985,7936
+"Clear Creek",1986,8159
+"Clear Creek",1987,7822
+"Clear Creek",1988,7727
+"Clear Creek",1989,7667
+"Clear Creek",1990,7613
+"Clear Creek",1991,7653
+"Clear Creek",1992,7842
+"Clear Creek",1993,8037
+"Clear Creek",1994,8458
+"Clear Creek",1995,8684
+"Clear Creek",1996,8716
+"Clear Creek",1997,8880
+"Clear Creek",1998,8998
+"Clear Creek",1999,9183
+"Clear Creek",2000,9361
+"Clear Creek",2001,9464
+"Clear Creek",2002,9466
+"Clear Creek",2003,9517
+"Clear Creek",2004,9461
+"Clear Creek",2005,9392
+"Clear Creek",2006,9279
+"Clear Creek",2007,9333
+"Clear Creek",2008,9294
+"Clear Creek",2009,9060
 "Clear Creek",2010,9155
 "Clear Creek",2011,9070
 "Clear Creek",2012,9103
@@ -106,9 +351,31 @@
 "Clear Creek",2014,9210
 "Clear Creek",2015,9392
 "Clear Creek",2016,9443
-"Clear Creek",2017,268764
-"Clear Creek",2018,268764
-"Clear Creek",2019,268764
+"Conejos",1985,7776
+"Conejos",1986,7947
+"Conejos",1987,8090
+"Conejos",1988,7854
+"Conejos",1989,7623
+"Conejos",1990,7451
+"Conejos",1991,7534
+"Conejos",1992,7514
+"Conejos",1993,7642
+"Conejos",1994,7755
+"Conejos",1995,7906
+"Conejos",1996,8019
+"Conejos",1997,8100
+"Conejos",1998,8187
+"Conejos",1999,8308
+"Conejos",2000,8408
+"Conejos",2001,8365
+"Conejos",2002,8389
+"Conejos",2003,8387
+"Conejos",2004,8501
+"Conejos",2005,8500
+"Conejos",2006,8470
+"Conejos",2007,8433
+"Conejos",2008,8384
+"Conejos",2009,8210
 "Conejos",2010,8282
 "Conejos",2011,8282
 "Conejos",2012,8246
@@ -116,9 +383,31 @@
 "Conejos",2014,8246
 "Conejos",2015,8074
 "Conejos",2016,8039
-"Conejos",2017,268764
-"Conejos",2018,268764
-"Conejos",2019,268764
+"Costilla",1985,3363
+"Costilla",1986,3307
+"Costilla",1987,3349
+"Costilla",1988,3397
+"Costilla",1989,3277
+"Costilla",1990,3193
+"Costilla",1991,3256
+"Costilla",1992,3190
+"Costilla",1993,3337
+"Costilla",1994,3376
+"Costilla",1995,3511
+"Costilla",1996,3581
+"Costilla",1997,3641
+"Costilla",1998,3700
+"Costilla",1999,3679
+"Costilla",2000,3674
+"Costilla",2001,3741
+"Costilla",2002,3734
+"Costilla",2003,3800
+"Costilla",2004,3802
+"Costilla",2005,3695
+"Costilla",2006,3698
+"Costilla",2007,3676
+"Costilla",2008,3611
+"Costilla",2009,3505
 "Costilla",2010,3532
 "Costilla",2011,3647
 "Costilla",2012,3601
@@ -126,9 +415,31 @@
 "Costilla",2014,3560
 "Costilla",2015,3572
 "Costilla",2016,3707
-"Costilla",2017,268764
-"Costilla",2018,268764
-"Costilla",2019,268764
+"Crowley",1985,2997
+"Crowley",1986,2985
+"Crowley",1987,3072
+"Crowley",1988,3842
+"Crowley",1989,3901
+"Crowley",1990,3929
+"Crowley",1991,3973
+"Crowley",1992,4140
+"Crowley",1993,4145
+"Crowley",1994,4207
+"Crowley",1995,4221
+"Crowley",1996,4266
+"Crowley",1997,4303
+"Crowley",1998,4286
+"Crowley",1999,4998
+"Crowley",2000,5130
+"Crowley",2001,5253
+"Crowley",2002,5344
+"Crowley",2003,5156
+"Crowley",2004,5432
+"Crowley",2005,5437
+"Crowley",2006,5713
+"Crowley",2007,5907
+"Crowley",2008,5893
+"Crowley",2009,5803
 "Crowley",2010,5838
 "Crowley",2011,5817
 "Crowley",2012,5376
@@ -136,9 +447,31 @@
 "Crowley",2014,5550
 "Crowley",2015,5569
 "Crowley",2016,5214
-"Crowley",2017,268764
-"Crowley",2018,268764
-"Crowley",2019,268764
+"Custer",1985,2066
+"Custer",1986,2075
+"Custer",1987,2050
+"Custer",1988,1976
+"Custer",1989,1947
+"Custer",1990,1944
+"Custer",1991,2012
+"Custer",1992,2141
+"Custer",1993,2323
+"Custer",1994,2418
+"Custer",1995,2618
+"Custer",1996,2848
+"Custer",1997,3057
+"Custer",1998,3175
+"Custer",1999,3364
+"Custer",2000,3520
+"Custer",2001,3730
+"Custer",2002,3783
+"Custer",2003,3934
+"Custer",2004,3984
+"Custer",2005,4045
+"Custer",2006,4017
+"Custer",2007,4130
+"Custer",2008,4119
+"Custer",2009,4166
 "Custer",2010,4272
 "Custer",2011,4227
 "Custer",2012,4241
@@ -146,9 +479,31 @@
 "Custer",2014,4368
 "Custer",2015,4457
 "Custer",2016,4617
-"Custer",2017,268764
-"Custer",2018,268764
-"Custer",2019,268764
+"Delta",1985,23466
+"Delta",1986,22353
+"Delta",1987,21782
+"Delta",1988,21502
+"Delta",1989,21205
+"Delta",1990,20991
+"Delta",1991,21229
+"Delta",1992,21869
+"Delta",1993,23233
+"Delta",1994,24343
+"Delta",1995,25193
+"Delta",1996,25718
+"Delta",1997,26005
+"Delta",1998,26821
+"Delta",1999,27400
+"Delta",2000,27909
+"Delta",2001,28387
+"Delta",2002,28778
+"Delta",2003,29061
+"Delta",2004,29453
+"Delta",2005,29412
+"Delta",2006,29702
+"Delta",2007,29877
+"Delta",2008,30342
+"Delta",2009,30625
 "Delta",2010,30889
 "Delta",2011,30370
 "Delta",2012,30461
@@ -156,9 +511,31 @@
 "Delta",2014,29988
 "Delta",2015,29973
 "Delta",2016,30471
-"Delta",2017,268764
-"Delta",2018,268764
-"Delta",2019,268764
+"Denver",1985,496431
+"Denver",1986,497014
+"Denver",1987,490274
+"Denver",1988,479622
+"Denver",1989,472785
+"Denver",1990,467854
+"Denver",1991,475183
+"Denver",1992,488258
+"Denver",1993,501335
+"Denver",1994,504249
+"Denver",1995,507723
+"Denver",1996,518255
+"Denver",1997,527442
+"Denver",1998,533406
+"Denver",1999,545517
+"Denver",2000,556738
+"Denver",2001,563300
+"Denver",2002,559090
+"Denver",2003,560348
+"Denver",2004,560230
+"Denver",2005,559459
+"Denver",2006,562862
+"Denver",2007,570437
+"Denver",2008,581903
+"Denver",2009,595573
 "Denver",2010,604879
 "Denver",2011,620684
 "Denver",2012,634471
@@ -166,9 +543,31 @@
 "Denver",2014,662855
 "Denver",2015,680658
 "Denver",2016,693292
-"Denver",2017,268764
-"Denver",2018,268764
-"Denver",2019,268764
+"Dolores",1985,1548
+"Dolores",1986,1529
+"Dolores",1987,1494
+"Dolores",1988,1591
+"Dolores",1989,1541
+"Dolores",1990,1489
+"Dolores",1991,1437
+"Dolores",1992,1403
+"Dolores",1993,1426
+"Dolores",1994,1499
+"Dolores",1995,1566
+"Dolores",1996,1636
+"Dolores",1997,1674
+"Dolores",1998,1766
+"Dolores",1999,1811
+"Dolores",2000,1849
+"Dolores",2001,1865
+"Dolores",2002,1880
+"Dolores",2003,1879
+"Dolores",2004,1873
+"Dolores",2005,1888
+"Dolores",2006,1990
+"Dolores",2007,2001
+"Dolores",2008,2074
+"Dolores",2009,2052
 "Dolores",2010,2060
 "Dolores",2011,2025
 "Dolores",2012,1990
@@ -176,9 +575,31 @@
 "Dolores",2014,1965
 "Dolores",2015,1972
 "Dolores",2016,2035
-"Dolores",2017,268764
-"Dolores",2018,268764
-"Dolores",2019,268764
+"Douglas",1985,40048
+"Douglas",1986,45654
+"Douglas",1987,48844
+"Douglas",1988,53127
+"Douglas",1989,57164
+"Douglas",1990,61559
+"Douglas",1991,66688
+"Douglas",1992,75361
+"Douglas",1993,83132
+"Douglas",1994,92526
+"Douglas",1995,103839
+"Douglas",1996,114713
+"Douglas",1997,129331
+"Douglas",1998,144354
+"Douglas",1999,162323
+"Douglas",2000,180510
+"Douglas",2001,199038
+"Douglas",2002,209705
+"Douglas",2003,221146
+"Douglas",2004,233646
+"Douglas",2005,244442
+"Douglas",2006,257833
+"Douglas",2007,268599
+"Douglas",2008,276740
+"Douglas",2009,282163
 "Douglas",2010,287124
 "Douglas",2011,292478
 "Douglas",2012,298638
@@ -186,9 +607,31 @@
 "Douglas",2014,314804
 "Douglas",2015,322198
 "Douglas",2016,328330
-"Douglas",2017,268764
-"Douglas",2018,268764
-"Douglas",2019,268764
+"Eagle",1985,18029
+"Eagle",1986,18853
+"Eagle",1987,19002
+"Eagle",1988,19567
+"Eagle",1989,20881
+"Eagle",1990,22118
+"Eagle",1991,23458
+"Eagle",1992,24940
+"Eagle",1993,26832
+"Eagle",1994,29027
+"Eagle",1995,30883
+"Eagle",1996,32928
+"Eagle",1997,35206
+"Eagle",1998,37614
+"Eagle",1999,39909
+"Eagle",2000,43289
+"Eagle",2001,44440
+"Eagle",2002,45100
+"Eagle",2003,45758
+"Eagle",2004,46485
+"Eagle",2005,47278
+"Eagle",2006,48214
+"Eagle",2007,49284
+"Eagle",2008,50301
+"Eagle",2009,51520
 "Eagle",2010,52057
 "Eagle",2011,51649
 "Eagle",2012,51849
@@ -196,9 +639,31 @@
 "Eagle",2014,52761
 "Eagle",2015,53320
 "Eagle",2016,53928
-"Eagle",2017,268764
-"Eagle",2018,268764
-"Eagle",2019,268764
+"El Paso",1985,368506
+"El Paso",1986,379304
+"El Paso",1987,392720
+"El Paso",1988,395265
+"El Paso",1989,396314
+"El Paso",1990,397887
+"El Paso",1991,405954
+"El Paso",1992,422815
+"El Paso",1993,437135
+"El Paso",1994,456500
+"El Paso",1995,469693
+"El Paso",1996,476989
+"El Paso",1997,486805
+"El Paso",1998,498021
+"El Paso",1999,508815
+"El Paso",2000,519802
+"El Paso",2001,536336
+"El Paso",2002,545240
+"El Paso",2003,551668
+"El Paso",2004,558455
+"El Paso",2005,569322
+"El Paso",2006,582502
+"El Paso",2007,588772
+"El Paso",2008,599060
+"El Paso",2009,608518
 "El Paso",2010,627232
 "El Paso",2011,638289
 "El Paso",2012,647446
@@ -206,9 +671,31 @@
 "El Paso",2014,665052
 "El Paso",2015,676178
 "El Paso",2016,690207
-"El Paso",2017,268764
-"El Paso",2018,268764
-"El Paso",2019,268764
+"Elbert",1985,8560
+"Elbert",1986,8793
+"Elbert",1987,9340
+"Elbert",1988,9829
+"Elbert",1989,9725
+"Elbert",1990,9763
+"Elbert",1991,10268
+"Elbert",1992,10766
+"Elbert",1993,11542
+"Elbert",1994,12847
+"Elbert",1995,14328
+"Elbert",1996,15806
+"Elbert",1997,16987
+"Elbert",1998,18032
+"Elbert",1999,19087
+"Elbert",2000,20104
+"Elbert",2001,21294
+"Elbert",2002,21604
+"Elbert",2003,21933
+"Elbert",2004,22041
+"Elbert",2005,22259
+"Elbert",2006,22527
+"Elbert",2007,22478
+"Elbert",2008,22663
+"Elbert",2009,22890
 "Elbert",2010,23107
 "Elbert",2011,23213
 "Elbert",2012,23371
@@ -216,9 +703,31 @@
 "Elbert",2014,24093
 "Elbert",2015,24640
 "Elbert",2016,25169
-"Elbert",2017,268764
-"Elbert",2018,268764
-"Elbert",2019,268764
+"Fremont",1985,31366
+"Fremont",1986,31130
+"Fremont",1987,31394
+"Fremont",1988,31893
+"Fremont",1989,32114
+"Fremont",1990,32200
+"Fremont",1991,32237
+"Fremont",1992,33818
+"Fremont",1993,36507
+"Fremont",1994,38705
+"Fremont",1995,40522
+"Fremont",1996,41828
+"Fremont",1997,42844
+"Fremont",1998,43813
+"Fremont",1999,45144
+"Fremont",2000,46370
+"Fremont",2001,46733
+"Fremont",2002,46969
+"Fremont",2003,46828
+"Fremont",2004,46540
+"Fremont",2005,46447
+"Fremont",2006,46703
+"Fremont",2007,46654
+"Fremont",2008,46774
+"Fremont",2009,46635
 "Fremont",2010,46854
 "Fremont",2011,47406
 "Fremont",2012,47075
@@ -226,9 +735,31 @@
 "Fremont",2014,46389
 "Fremont",2015,46659
 "Fremont",2016,47487
-"Fremont",2017,268764
-"Fremont",2018,268764
-"Fremont",2019,268764
+"Garfield",1985,25714
+"Garfield",1986,26191
+"Garfield",1987,26387
+"Garfield",1988,27325
+"Garfield",1989,28809
+"Garfield",1990,30151
+"Garfield",1991,31230
+"Garfield",1992,31339
+"Garfield",1993,32574
+"Garfield",1994,34496
+"Garfield",1995,36417
+"Garfield",1996,37677
+"Garfield",1997,38894
+"Garfield",1998,41231
+"Garfield",1999,42691
+"Garfield",2000,44240
+"Garfield",2001,45907
+"Garfield",2002,46728
+"Garfield",2003,47484
+"Garfield",2004,48156
+"Garfield",2005,49256
+"Garfield",2006,51106
+"Garfield",2007,52676
+"Garfield",2008,54226
+"Garfield",2009,55400
 "Garfield",2010,56150
 "Garfield",2011,56005
 "Garfield",2012,56770
@@ -236,9 +767,31 @@
 "Garfield",2014,57260
 "Garfield",2015,57779
 "Garfield",2016,58984
-"Garfield",2017,268764
-"Garfield",2018,268764
-"Garfield",2019,268764
+"Gilpin",1985,3081
+"Gilpin",1986,3237
+"Gilpin",1987,3279
+"Gilpin",1988,3172
+"Gilpin",1989,3114
+"Gilpin",1990,3069
+"Gilpin",1991,3089
+"Gilpin",1992,3244
+"Gilpin",1993,3376
+"Gilpin",1994,3499
+"Gilpin",1995,3668
+"Gilpin",1996,3792
+"Gilpin",1997,4035
+"Gilpin",1998,4246
+"Gilpin",1999,4538
+"Gilpin",2000,4803
+"Gilpin",2001,4829
+"Gilpin",2002,4830
+"Gilpin",2003,4851
+"Gilpin",2004,4825
+"Gilpin",2005,4892
+"Gilpin",2006,4953
+"Gilpin",2007,4964
+"Gilpin",2008,5084
+"Gilpin",2009,5396
 "Gilpin",2010,5463
 "Gilpin",2011,5448
 "Gilpin",2012,5457
@@ -246,9 +799,31 @@
 "Gilpin",2014,5769
 "Gilpin",2015,5824
 "Gilpin",2016,5926
-"Gilpin",2017,268764
-"Gilpin",2018,268764
-"Gilpin",2019,268764
+"Grand",1985,9212
+"Grand",1986,9139
+"Grand",1987,8908
+"Grand",1988,8467
+"Grand",1989,8178
+"Grand",1990,8006
+"Grand",1991,8389
+"Grand",1992,8604
+"Grand",1993,8925
+"Grand",1994,9339
+"Grand",1995,9953
+"Grand",1996,10511
+"Grand",1997,10966
+"Grand",1998,11409
+"Grand",1999,11995
+"Grand",2000,12853
+"Grand",2001,13283
+"Grand",2002,13461
+"Grand",2003,13688
+"Grand",2004,13912
+"Grand",2005,13897
+"Grand",2006,14135
+"Grand",2007,14339
+"Grand",2008,14535
+"Grand",2009,14664
 "Grand",2010,14790
 "Grand",2011,14548
 "Grand",2012,14157
@@ -256,9 +831,31 @@
 "Grand",2014,14451
 "Grand",2015,14602
 "Grand",2016,15039
-"Grand",2017,268764
-"Grand",2018,268764
-"Grand",2019,268764
+"Gunnison",1985,10390
+"Gunnison",1986,10890
+"Gunnison",1987,10855
+"Gunnison",1988,10827
+"Gunnison",1989,10509
+"Gunnison",1990,10281
+"Gunnison",1991,10416
+"Gunnison",1992,10776
+"Gunnison",1993,11311
+"Gunnison",1994,11671
+"Gunnison",1995,11974
+"Gunnison",1996,12244
+"Gunnison",1997,12405
+"Gunnison",1998,13442
+"Gunnison",1999,13736
+"Gunnison",2000,13989
+"Gunnison",2001,14345
+"Gunnison",2002,14316
+"Gunnison",2003,14206
+"Gunnison",2004,14230
+"Gunnison",2005,14473
+"Gunnison",2006,14650
+"Gunnison",2007,14957
+"Gunnison",2008,15137
+"Gunnison",2009,15266
 "Gunnison",2010,15309
 "Gunnison",2011,15269
 "Gunnison",2012,15384
@@ -266,9 +863,31 @@
 "Gunnison",2014,15767
 "Gunnison",2015,16097
 "Gunnison",2016,16394
-"Gunnison",2017,268764
-"Gunnison",2018,268764
-"Gunnison",2019,268764
+"Hinsdale",1985,472
+"Hinsdale",1986,468
+"Hinsdale",1987,508
+"Hinsdale",1988,489
+"Hinsdale",1989,476
+"Hinsdale",1990,463
+"Hinsdale",1991,453
+"Hinsdale",1992,504
+"Hinsdale",1993,546
+"Hinsdale",1994,612
+"Hinsdale",1995,659
+"Hinsdale",1996,707
+"Hinsdale",1997,739
+"Hinsdale",1998,776
+"Hinsdale",1999,784
+"Hinsdale",2000,792
+"Hinsdale",2001,804
+"Hinsdale",2002,806
+"Hinsdale",2003,784
+"Hinsdale",2004,831
+"Hinsdale",2005,813
+"Hinsdale",2006,830
+"Hinsdale",2007,845
+"Hinsdale",2008,824
+"Hinsdale",2009,827
 "Hinsdale",2010,843
 "Hinsdale",2011,824
 "Hinsdale",2012,795
@@ -276,9 +895,31 @@
 "Hinsdale",2014,774
 "Hinsdale",2015,767
 "Hinsdale",2016,775
-"Hinsdale",2017,268764
-"Hinsdale",2018,268764
-"Hinsdale",2019,268764
+"Huerfano",1985,6809
+"Huerfano",1986,6752
+"Huerfano",1987,6500
+"Huerfano",1988,6292
+"Huerfano",1989,6130
+"Huerfano",1990,6004
+"Huerfano",1991,6057
+"Huerfano",1992,6181
+"Huerfano",1993,6439
+"Huerfano",1994,6923
+"Huerfano",1995,7162
+"Huerfano",1996,7389
+"Huerfano",1997,7672
+"Huerfano",1998,7781
+"Huerfano",1999,7827
+"Huerfano",2000,7827
+"Huerfano",2001,7905
+"Huerfano",2002,7916
+"Huerfano",2003,8042
+"Huerfano",2004,7729
+"Huerfano",2005,7823
+"Huerfano",2006,7750
+"Huerfano",2007,7658
+"Huerfano",2008,7680
+"Huerfano",2009,6710
 "Huerfano",2010,6655
 "Huerfano",2011,6504
 "Huerfano",2012,6563
@@ -286,9 +927,31 @@
 "Huerfano",2014,6395
 "Huerfano",2015,6456
 "Huerfano",2016,6642
-"Huerfano",2017,268764
-"Huerfano",2018,268764
-"Huerfano",2019,268764
+"Jackson",1985,1729
+"Jackson",1986,1708
+"Jackson",1987,1775
+"Jackson",1988,1713
+"Jackson",1989,1651
+"Jackson",1990,1597
+"Jackson",1991,1556
+"Jackson",1992,1574
+"Jackson",1993,1632
+"Jackson",1994,1642
+"Jackson",1995,1609
+"Jackson",1996,1594
+"Jackson",1997,1596
+"Jackson",1998,1587
+"Jackson",1999,1582
+"Jackson",2000,1576
+"Jackson",2001,1590
+"Jackson",2002,1591
+"Jackson",2003,1586
+"Jackson",2004,1521
+"Jackson",2005,1492
+"Jackson",2006,1443
+"Jackson",2007,1422
+"Jackson",2008,1381
+"Jackson",2009,1386
 "Jackson",2010,1387
 "Jackson",2011,1372
 "Jackson",2012,1338
@@ -296,9 +959,31 @@
 "Jackson",2014,1389
 "Jackson",2015,1353
 "Jackson",2016,1351
-"Jackson",2017,268764
-"Jackson",2018,268764
-"Jackson",2019,268764
+"Jefferson",1985,421617
+"Jefferson",1986,427070
+"Jefferson",1987,430187
+"Jefferson",1988,432429
+"Jefferson",1989,435905
+"Jefferson",1990,439885
+"Jefferson",1991,449663
+"Jefferson",1992,463540
+"Jefferson",1993,476208
+"Jefferson",1994,483433
+"Jefferson",1995,491314
+"Jefferson",1996,498046
+"Jefferson",1997,504234
+"Jefferson",1998,512483
+"Jefferson",1999,520810
+"Jefferson",2000,526718
+"Jefferson",2001,528067
+"Jefferson",2002,527539
+"Jefferson",2003,525429
+"Jefferson",2004,524876
+"Jefferson",2005,523517
+"Jefferson",2006,524579
+"Jefferson",2007,527120
+"Jefferson",2008,530565
+"Jefferson",2009,532606
 "Jefferson",2010,535651
 "Jefferson",2011,539721
 "Jefferson",2012,545880
@@ -306,9 +991,31 @@
 "Jefferson",2014,558610
 "Jefferson",2015,564619
 "Jefferson",2016,571711
-"Jefferson",2017,268764
-"Jefferson",2018,268764
-"Jefferson",2019,268764
+"Kiowa",1985,1847
+"Kiowa",1986,1798
+"Kiowa",1987,1758
+"Kiowa",1988,1711
+"Kiowa",1989,1698
+"Kiowa",1990,1688
+"Kiowa",1991,1683
+"Kiowa",1992,1695
+"Kiowa",1993,1698
+"Kiowa",1994,1693
+"Kiowa",1995,1643
+"Kiowa",1996,1662
+"Kiowa",1997,1661
+"Kiowa",1998,1644
+"Kiowa",1999,1632
+"Kiowa",2000,1614
+"Kiowa",2001,1606
+"Kiowa",2002,1566
+"Kiowa",2003,1548
+"Kiowa",2004,1523
+"Kiowa",2005,1543
+"Kiowa",2006,1514
+"Kiowa",2007,1471
+"Kiowa",2008,1432
+"Kiowa",2009,1392
 "Kiowa",2010,1399
 "Kiowa",2011,1445
 "Kiowa",2012,1425
@@ -316,9 +1023,31 @@
 "Kiowa",2014,1394
 "Kiowa",2015,1396
 "Kiowa",2016,1347
-"Kiowa",2017,268764
-"Kiowa",2018,268764
-"Kiowa",2019,268764
+"Kit Carson",1985,7547
+"Kit Carson",1986,7373
+"Kit Carson",1987,7241
+"Kit Carson",1988,7280
+"Kit Carson",1989,7201
+"Kit Carson",1990,7128
+"Kit Carson",1991,7161
+"Kit Carson",1992,7232
+"Kit Carson",1993,7267
+"Kit Carson",1994,7340
+"Kit Carson",1995,7413
+"Kit Carson",1996,7486
+"Kit Carson",1997,7599
+"Kit Carson",1998,7754
+"Kit Carson",1999,7901
+"Kit Carson",2000,7975
+"Kit Carson",2001,8073
+"Kit Carson",2002,8289
+"Kit Carson",2003,8185
+"Kit Carson",2004,8257
+"Kit Carson",2005,7998
+"Kit Carson",2006,7946
+"Kit Carson",2007,7835
+"Kit Carson",2008,8042
+"Kit Carson",2009,8269
 "Kit Carson",2010,8267
 "Kit Carson",2011,8181
 "Kit Carson",2012,8088
@@ -326,9 +1055,31 @@
 "Kit Carson",2014,8039
 "Kit Carson",2015,8219
 "Kit Carson",2016,7639
-"Kit Carson",2017,268764
-"Kit Carson",2018,268764
-"Kit Carson",2019,268764
+"La Plata",1985,31393
+"La Plata",1986,30790
+"La Plata",1987,30916
+"La Plata",1988,31179
+"La Plata",1989,31809
+"La Plata",1990,32466
+"La Plata",1991,33411
+"La Plata",1992,34429
+"La Plata",1993,35598
+"La Plata",1994,36906
+"La Plata",1995,38760
+"La Plata",1996,39704
+"La Plata",1997,40318
+"La Plata",1998,41173
+"La Plata",1999,42757
+"La Plata",2000,44578
+"La Plata",2001,45645
+"La Plata",2002,46089
+"La Plata",2003,46447
+"La Plata",2004,46926
+"La Plata",2005,47713
+"La Plata",2006,48408
+"La Plata",2007,49146
+"La Plata",2008,50073
+"La Plata",2009,50759
 "La Plata",2010,51441
 "La Plata",2011,51866
 "La Plata",2012,52457
@@ -336,9 +1087,31 @@
 "La Plata",2014,53978
 "La Plata",2015,54857
 "La Plata",2016,55697
-"La Plata",2017,268764
-"La Plata",2018,268764
-"La Plata",2019,268764
+"Lake",1985,6789
+"Lake",1986,6450
+"Lake",1987,6045
+"Lake",1988,5750
+"Lake",1989,5896
+"Lake",1990,6035
+"Lake",1991,6141
+"Lake",1992,6209
+"Lake",1993,6271
+"Lake",1994,6380
+"Lake",1995,7143
+"Lake",1996,7554
+"Lake",1997,7860
+"Lake",1998,7835
+"Lake",1999,7822
+"Lake",2000,7940
+"Lake",2001,7821
+"Lake",2002,7726
+"Lake",2003,7520
+"Lake",2004,7416
+"Lake",2005,7284
+"Lake",2006,7217
+"Lake",2007,7271
+"Lake",2008,7269
+"Lake",2009,7174
 "Lake",2010,7282
 "Lake",2011,7382
 "Lake",2012,7291
@@ -346,9 +1119,31 @@
 "Lake",2014,7370
 "Lake",2015,7502
 "Lake",2016,7595
-"Lake",2017,268764
-"Lake",2018,268764
-"Lake",2019,268764
+"Larimer",1985,170724
+"Larimer",1986,174980
+"Larimer",1987,178151
+"Larimer",1988,180220
+"Larimer",1989,183598
+"Larimer",1990,187081
+"Larimer",1991,193542
+"Larimer",1992,199666
+"Larimer",1993,206844
+"Larimer",1994,214936
+"Larimer",1995,221622
+"Larimer",1996,227248
+"Larimer",1997,232796
+"Larimer",1998,239080
+"Larimer",1999,246156
+"Larimer",2000,253088
+"Larimer",2001,260911
+"Larimer",2002,266171
+"Larimer",2003,268146
+"Larimer",2004,273269
+"Larimer",2005,275873
+"Larimer",2006,281027
+"Larimer",2007,286754
+"Larimer",2008,292394
+"Larimer",2009,297502
 "Larimer",2010,300532
 "Larimer",2011,305078
 "Larimer",2012,310717
@@ -356,9 +1151,31 @@
 "Larimer",2014,324105
 "Larimer",2015,332830
 "Larimer",2016,338663
-"Larimer",2017,268764
-"Larimer",2018,268764
-"Larimer",2019,268764
+"Las Animas",1985,14241
+"Las Animas",1986,14113
+"Las Animas",1987,14397
+"Las Animas",1988,14222
+"Las Animas",1989,13960
+"Las Animas",1990,13772
+"Las Animas",1991,13816
+"Las Animas",1992,14029
+"Las Animas",1993,14212
+"Las Animas",1994,14754
+"Las Animas",1995,14909
+"Las Animas",1996,14967
+"Las Animas",1997,15045
+"Las Animas",1998,15054
+"Las Animas",1999,15142
+"Las Animas",2000,15286
+"Las Animas",2001,15310
+"Las Animas",2002,15659
+"Las Animas",2003,16089
+"Las Animas",2004,15700
+"Las Animas",2005,15570
+"Las Animas",2006,15552
+"Las Animas",2007,15525
+"Las Animas",2008,15486
+"Las Animas",2009,15477
 "Las Animas",2010,15407
 "Las Animas",2011,15045
 "Las Animas",2012,14966
@@ -366,9 +1183,31 @@
 "Las Animas",2014,14078
 "Las Animas",2015,14061
 "Las Animas",2016,14082
-"Las Animas",2017,268764
-"Las Animas",2018,268764
-"Las Animas",2019,268764
+"Lincoln",1985,4588
+"Lincoln",1986,4431
+"Lincoln",1987,4442
+"Lincoln",1988,4577
+"Lincoln",1989,4549
+"Lincoln",1990,4714
+"Lincoln",1991,5430
+"Lincoln",1992,5975
+"Lincoln",1993,5878
+"Lincoln",1994,5939
+"Lincoln",1995,5983
+"Lincoln",1996,6112
+"Lincoln",1997,6094
+"Lincoln",1998,6107
+"Lincoln",1999,6096
+"Lincoln",2000,6163
+"Lincoln",2001,6076
+"Lincoln",2002,6047
+"Lincoln",2003,6052
+"Lincoln",2004,5907
+"Lincoln",2005,5787
+"Lincoln",2006,5665
+"Lincoln",2007,5571
+"Lincoln",2008,5522
+"Lincoln",2009,5463
 "Lincoln",2010,5474
 "Lincoln",2011,5397
 "Lincoln",2012,5438
@@ -376,9 +1215,31 @@
 "Lincoln",2014,5509
 "Lincoln",2015,5549
 "Lincoln",2016,5554
-"Lincoln",2017,268764
-"Lincoln",2018,268764
-"Lincoln",2019,268764
+"Logan",1985,19063
+"Logan",1986,18167
+"Logan",1987,17740
+"Logan",1988,17932
+"Logan",1989,17725
+"Logan",1990,17487
+"Logan",1991,17503
+"Logan",1992,17562
+"Logan",1993,17959
+"Logan",1994,18828
+"Logan",1995,19368
+"Logan",1996,19661
+"Logan",1997,20008
+"Logan",1998,20003
+"Logan",1999,20289
+"Logan",2000,20655
+"Logan",2001,22354
+"Logan",2002,22095
+"Logan",2003,22371
+"Logan",2004,22181
+"Logan",2005,22088
+"Logan",2006,22267
+"Logan",2007,22403
+"Logan",2008,22324
+"Logan",2009,22517
 "Logan",2010,22293
 "Logan",2011,22254
 "Logan",2012,22003
@@ -386,9 +1247,31 @@
 "Logan",2014,22099
 "Logan",2015,22122
 "Logan",2016,22047
-"Logan",2017,268764
-"Logan",2018,268764
-"Logan",2019,268764
+"Mesa",1985,88021
+"Mesa",1986,85562
+"Mesa",1987,85559
+"Mesa",1988,87288
+"Mesa",1989,90593
+"Mesa",1990,93577
+"Mesa",1991,95992
+"Mesa",1992,97411
+"Mesa",1993,99903
+"Mesa",1994,102767
+"Mesa",1995,105406
+"Mesa",1996,107529
+"Mesa",1997,109762
+"Mesa",1998,112327
+"Mesa",1999,114573
+"Mesa",2000,117651
+"Mesa",2001,119864
+"Mesa",2002,121787
+"Mesa",2003,124152
+"Mesa",2004,126626
+"Mesa",2005,128999
+"Mesa",2006,133128
+"Mesa",2007,137390
+"Mesa",2008,140680
+"Mesa",2009,144795
 "Mesa",2010,147155
 "Mesa",2011,148108
 "Mesa",2012,148291
@@ -396,9 +1279,31 @@
 "Mesa",2014,148250
 "Mesa",2015,149023
 "Mesa",2016,150731
-"Mesa",2017,268764
-"Mesa",2018,268764
-"Mesa",2019,268764
+"Mineral",1985,836
+"Mineral",1986,771
+"Mineral",1987,738
+"Mineral",1988,689
+"Mineral",1989,611
+"Mineral",1990,558
+"Mineral",1991,570
+"Mineral",1992,590
+"Mineral",1993,600
+"Mineral",1994,646
+"Mineral",1995,674
+"Mineral",1996,724
+"Mineral",1997,744
+"Mineral",1998,772
+"Mineral",1999,806
+"Mineral",2000,837
+"Mineral",2001,820
+"Mineral",2002,805
+"Mineral",2003,830
+"Mineral",2004,842
+"Mineral",2005,806
+"Mineral",2006,789
+"Mineral",2007,803
+"Mineral",2008,767
+"Mineral",2009,714
 "Mineral",2010,705
 "Mineral",2011,706
 "Mineral",2012,706
@@ -406,9 +1311,31 @@
 "Mineral",2014,696
 "Mineral",2015,729
 "Mineral",2016,737
-"Mineral",2017,268764
-"Mineral",2018,268764
-"Mineral",2019,268764
+"Moffat",1985,13286
+"Moffat",1986,12679
+"Moffat",1987,11886
+"Moffat",1988,11754
+"Moffat",1989,11526
+"Moffat",1990,11354
+"Moffat",1991,11449
+"Moffat",1992,11692
+"Moffat",1993,11797
+"Moffat",1994,11996
+"Moffat",1995,12187
+"Moffat",1996,12291
+"Moffat",1997,12572
+"Moffat",1998,12812
+"Moffat",1999,13025
+"Moffat",2000,13182
+"Moffat",2001,13089
+"Moffat",2002,13134
+"Moffat",2003,13054
+"Moffat",2004,13063
+"Moffat",2005,12965
+"Moffat",2006,13102
+"Moffat",2007,13270
+"Moffat",2008,13446
+"Moffat",2009,13544
 "Moffat",2010,13806
 "Moffat",2011,13402
 "Moffat",2012,13135
@@ -416,9 +1343,31 @@
 "Moffat",2014,12866
 "Moffat",2015,12884
 "Moffat",2016,13088
-"Moffat",2017,268764
-"Moffat",2018,268764
-"Moffat",2019,268764
+"Montezuma",1985,19283
+"Montezuma",1986,18835
+"Montezuma",1987,18192
+"Montezuma",1988,18110
+"Montezuma",1989,18432
+"Montezuma",1990,18710
+"Montezuma",1991,19060
+"Montezuma",1992,19651
+"Montezuma",1993,20640
+"Montezuma",1994,21393
+"Montezuma",1995,22159
+"Montezuma",1996,22650
+"Montezuma",1997,22973
+"Montezuma",1998,23117
+"Montezuma",1999,23524
+"Montezuma",2000,23852
+"Montezuma",2001,23873
+"Montezuma",2002,24109
+"Montezuma",2003,24378
+"Montezuma",2004,24607
+"Montezuma",2005,24603
+"Montezuma",2006,25017
+"Montezuma",2007,25177
+"Montezuma",2008,25200
+"Montezuma",2009,25365
 "Montezuma",2010,25532
 "Montezuma",2011,25463
 "Montezuma",2012,25441
@@ -426,9 +1375,31 @@
 "Montezuma",2014,25806
 "Montezuma",2015,26129
 "Montezuma",2016,26906
-"Montezuma",2017,268764
-"Montezuma",2018,268764
-"Montezuma",2019,268764
+"Montrose",1985,24389
+"Montrose",1986,23833
+"Montrose",1987,23822
+"Montrose",1988,24087
+"Montrose",1989,24281
+"Montrose",1990,24539
+"Montrose",1991,25275
+"Montrose",1992,26223
+"Montrose",1993,27287
+"Montrose",1994,28502
+"Montrose",1995,29670
+"Montrose",1996,30487
+"Montrose",1997,31252
+"Montrose",1998,31837
+"Montrose",1999,32748
+"Montrose",2000,33577
+"Montrose",2001,34442
+"Montrose",2002,34926
+"Montrose",2003,35640
+"Montrose",2004,36131
+"Montrose",2005,36997
+"Montrose",2006,37968
+"Montrose",2007,39131
+"Montrose",2008,39952
+"Montrose",2009,40680
 "Montrose",2010,41188
 "Montrose",2011,40894
 "Montrose",2012,40691
@@ -436,9 +1407,31 @@
 "Montrose",2014,40769
 "Montrose",2015,40795
 "Montrose",2016,41421
-"Montrose",2017,268764
-"Montrose",2018,268764
-"Montrose",2019,268764
+"Morgan",1985,22431
+"Morgan",1986,21508
+"Morgan",1987,21678
+"Morgan",1988,21831
+"Morgan",1989,21895
+"Morgan",1990,22056
+"Morgan",1991,22703
+"Morgan",1992,23482
+"Morgan",1993,24241
+"Morgan",1994,25088
+"Morgan",1995,25362
+"Morgan",1996,26042
+"Morgan",1997,26647
+"Morgan",1998,26662
+"Morgan",1999,26953
+"Morgan",2000,27251
+"Morgan",2001,27475
+"Morgan",2002,27662
+"Morgan",2003,27855
+"Morgan",2004,27912
+"Morgan",2005,27947
+"Morgan",2006,27983
+"Morgan",2007,27848
+"Morgan",2008,27746
+"Morgan",2009,28026
 "Morgan",2010,28196
 "Morgan",2011,28434
 "Morgan",2012,28241
@@ -446,9 +1439,31 @@
 "Morgan",2014,28127
 "Morgan",2015,28230
 "Morgan",2016,28148
-"Morgan",2017,268764
-"Morgan",2018,268764
-"Morgan",2019,268764
+"Otero",1985,21760
+"Otero",1986,21457
+"Otero",1987,20914
+"Otero",1988,20845
+"Otero",1989,20468
+"Otero",1990,20210
+"Otero",1991,20373
+"Otero",1992,20294
+"Otero",1993,20435
+"Otero",1994,20490
+"Otero",1995,20695
+"Otero",1996,20747
+"Otero",1997,20767
+"Otero",1998,20516
+"Otero",1999,20399
+"Otero",2000,20243
+"Otero",2001,19900
+"Otero",2002,19624
+"Otero",2003,19667
+"Otero",2004,19561
+"Otero",2005,19370
+"Otero",2006,19193
+"Otero",2007,18937
+"Otero",2008,18853
+"Otero",2009,18844
 "Otero",2010,18838
 "Otero",2011,18831
 "Otero",2012,18660
@@ -456,9 +1471,31 @@
 "Otero",2014,18398
 "Otero",2015,18265
 "Otero",2016,18290
-"Otero",2017,268764
-"Otero",2018,268764
-"Otero",2019,268764
+"Ouray",1985,2130
+"Ouray",1986,1999
+"Ouray",1987,2151
+"Ouray",1988,2219
+"Ouray",1989,2262
+"Ouray",1990,2315
+"Ouray",1991,2419
+"Ouray",1992,2535
+"Ouray",1993,2653
+"Ouray",1994,2902
+"Ouray",1995,3085
+"Ouray",1996,3252
+"Ouray",1997,3322
+"Ouray",1998,3453
+"Ouray",1999,3618
+"Ouray",2000,3775
+"Ouray",2001,3809
+"Ouray",2002,3903
+"Ouray",2003,3905
+"Ouray",2004,4023
+"Ouray",2005,4084
+"Ouray",2006,4137
+"Ouray",2007,4274
+"Ouray",2008,4407
+"Ouray",2009,4372
 "Ouray",2010,4446
 "Ouray",2011,4422
 "Ouray",2012,4510
@@ -466,9 +1503,31 @@
 "Ouray",2014,4582
 "Ouray",2015,4647
 "Ouray",2016,4844
-"Ouray",2017,268764
-"Ouray",2018,268764
-"Ouray",2019,268764
+"Park",1985,6601
+"Park",1986,6860
+"Park",1987,6937
+"Park",1988,6893
+"Park",1989,7054
+"Park",1990,7269
+"Park",1991,7700
+"Park",1992,8092
+"Park",1993,8581
+"Park",1994,9526
+"Park",1995,10577
+"Park",1996,11377
+"Park",1997,12362
+"Park",1998,13065
+"Park",1999,13900
+"Park",2000,14729
+"Park",2001,15172
+"Park",2002,15417
+"Park",2003,15789
+"Park",2004,15913
+"Park",2005,16061
+"Park",2006,16128
+"Park",2007,16336
+"Park",2008,16278
+"Park",2009,15971
 "Park",2010,16262
 "Park",2011,16096
 "Park",2012,16052
@@ -476,9 +1535,31 @@
 "Park",2014,16356
 "Park",2015,16716
 "Park",2016,17285
-"Park",2017,268764
-"Park",2018,268764
-"Park",2019,268764
+"Phillips",1985,4421
+"Phillips",1986,4445
+"Phillips",1987,4411
+"Phillips",1988,4332
+"Phillips",1989,4249
+"Phillips",1990,4188
+"Phillips",1991,4209
+"Phillips",1992,4231
+"Phillips",1993,4378
+"Phillips",1994,4401
+"Phillips",1995,4479
+"Phillips",1996,4504
+"Phillips",1997,4574
+"Phillips",1998,4570
+"Phillips",1999,4518
+"Phillips",2000,4452
+"Phillips",2001,4487
+"Phillips",2002,4496
+"Phillips",2003,4477
+"Phillips",2004,4580
+"Phillips",2005,4548
+"Phillips",2006,4504
+"Phillips",2007,4484
+"Phillips",2008,4451
+"Phillips",2009,4454
 "Phillips",2010,4465
 "Phillips",2011,4373
 "Phillips",2012,4384
@@ -486,9 +1567,31 @@
 "Phillips",2014,4379
 "Phillips",2015,4307
 "Phillips",2016,4285
-"Phillips",2017,268764
-"Phillips",2018,268764
-"Phillips",2019,268764
+"Pitkin",1985,11316
+"Pitkin",1986,11968
+"Pitkin",1987,12042
+"Pitkin",1988,12092
+"Pitkin",1989,12415
+"Pitkin",1990,12691
+"Pitkin",1991,12982
+"Pitkin",1992,13371
+"Pitkin",1993,14061
+"Pitkin",1994,14539
+"Pitkin",1995,14652
+"Pitkin",1996,14553
+"Pitkin",1997,14787
+"Pitkin",1998,14781
+"Pitkin",1999,14833
+"Pitkin",2000,15764
+"Pitkin",2001,16184
+"Pitkin",2002,16101
+"Pitkin",2003,16275
+"Pitkin",2004,16077
+"Pitkin",2005,16136
+"Pitkin",2006,16087
+"Pitkin",2007,16236
+"Pitkin",2008,16673
+"Pitkin",2009,17053
 "Pitkin",2010,17156
 "Pitkin",2011,17125
 "Pitkin",2012,17222
@@ -496,9 +1599,31 @@
 "Pitkin",2014,17623
 "Pitkin",2015,17845
 "Pitkin",2016,17773
-"Pitkin",2017,268764
-"Pitkin",2018,268764
-"Pitkin",2019,268764
+"Prowers",1985,14374
+"Prowers",1986,14128
+"Prowers",1987,13986
+"Prowers",1988,14231
+"Prowers",1989,13719
+"Prowers",1990,13237
+"Prowers",1991,12958
+"Prowers",1992,13105
+"Prowers",1993,13422
+"Prowers",1994,13686
+"Prowers",1995,13823
+"Prowers",1996,14002
+"Prowers",1997,14117
+"Prowers",1998,14224
+"Prowers",1999,14372
+"Prowers",2000,14453
+"Prowers",2001,14109
+"Prowers",2002,14011
+"Prowers",2003,13822
+"Prowers",2004,13656
+"Prowers",2005,13510
+"Prowers",2006,13208
+"Prowers",2007,12772
+"Prowers",2008,12682
+"Prowers",2009,12576
 "Prowers",2010,12531
 "Prowers",2011,12467
 "Prowers",2012,12380
@@ -506,9 +1631,31 @@
 "Prowers",2014,12023
 "Prowers",2015,11905
 "Prowers",2016,11841
-"Prowers",2017,268764
-"Prowers",2018,268764
-"Prowers",2019,268764
+"Pueblo",1985,121907
+"Pueblo",1986,122365
+"Pueblo",1987,122838
+"Pueblo",1988,123737
+"Pueblo",1989,123363
+"Pueblo",1990,122878
+"Pueblo",1991,123486
+"Pueblo",1992,124410
+"Pueblo",1993,126348
+"Pueblo",1994,128722
+"Pueblo",1995,130832
+"Pueblo",1996,132498
+"Pueblo",1997,134794
+"Pueblo",1998,137381
+"Pueblo",1999,139718
+"Pueblo",2000,141854
+"Pueblo",2001,143996
+"Pueblo",2002,146481
+"Pueblo",2003,147972
+"Pueblo",2004,148720
+"Pueblo",2005,149969
+"Pueblo",2006,152064
+"Pueblo",2007,154759
+"Pueblo",2008,156252
+"Pueblo",2009,157324
 "Pueblo",2010,159496
 "Pueblo",2011,160157
 "Pueblo",2012,160759
@@ -516,9 +1663,31 @@
 "Pueblo",2014,161618
 "Pueblo",2015,163196
 "Pueblo",2016,165109
-"Pueblo",2017,268764
-"Pueblo",2018,268764
-"Pueblo",2019,268764
+"Rio Blanco",1985,6590
+"Rio Blanco",1986,6440
+"Rio Blanco",1987,6428
+"Rio Blanco",1988,6299
+"Rio Blanco",1989,6111
+"Rio Blanco",1990,6061
+"Rio Blanco",1991,6027
+"Rio Blanco",1992,6180
+"Rio Blanco",1993,6259
+"Rio Blanco",1994,6314
+"Rio Blanco",1995,6403
+"Rio Blanco",1996,6341
+"Rio Blanco",1997,6322
+"Rio Blanco",1998,6232
+"Rio Blanco",1999,6091
+"Rio Blanco",2000,5969
+"Rio Blanco",2001,5880
+"Rio Blanco",2002,5936
+"Rio Blanco",2003,5855
+"Rio Blanco",2004,5904
+"Rio Blanco",2005,5818
+"Rio Blanco",2006,5981
+"Rio Blanco",2007,6093
+"Rio Blanco",2008,6160
+"Rio Blanco",2009,6317
 "Rio Blanco",2010,6617
 "Rio Blanco",2011,6696
 "Rio Blanco",2012,6774
@@ -526,9 +1695,31 @@
 "Rio Blanco",2014,6626
 "Rio Blanco",2015,6529
 "Rio Blanco",2016,6497
-"Rio Blanco",2017,268764
-"Rio Blanco",2018,268764
-"Rio Blanco",2019,268764
+"Rio Grande",1985,11546
+"Rio Grande",1986,11906
+"Rio Grande",1987,11758
+"Rio Grande",1988,11578
+"Rio Grande",1989,11109
+"Rio Grande",1990,10768
+"Rio Grande",1991,10835
+"Rio Grande",1992,10940
+"Rio Grande",1993,11211
+"Rio Grande",1994,11461
+"Rio Grande",1995,11698
+"Rio Grande",1996,11820
+"Rio Grande",1997,11966
+"Rio Grande",1998,12123
+"Rio Grande",1999,12289
+"Rio Grande",2000,12429
+"Rio Grande",2001,12406
+"Rio Grande",2002,12409
+"Rio Grande",2003,12619
+"Rio Grande",2004,12824
+"Rio Grande",2005,12696
+"Rio Grande",2006,12439
+"Rio Grande",2007,12167
+"Rio Grande",2008,12105
+"Rio Grande",2009,11995
 "Rio Grande",2010,12001
 "Rio Grande",2011,11905
 "Rio Grande",2012,11865
@@ -536,9 +1727,31 @@
 "Rio Grande",2014,11542
 "Rio Grande",2015,11413
 "Rio Grande",2016,11424
-"Rio Grande",2017,268764
-"Rio Grande",2018,268764
-"Rio Grande",2019,268764
+"Routt",1985,14196
+"Routt",1986,13863
+"Routt",1987,13862
+"Routt",1988,13765
+"Routt",1989,13950
+"Routt",1990,14172
+"Routt",1991,14731
+"Routt",1992,15149
+"Routt",1993,15924
+"Routt",1994,16617
+"Routt",1995,17254
+"Routt",1996,17718
+"Routt",1997,18117
+"Routt",1998,18606
+"Routt",1999,19224
+"Routt",2000,20123
+"Routt",2001,20436
+"Routt",2002,20892
+"Routt",2003,21128
+"Routt",2004,21293
+"Routt",2005,21453
+"Routt",2006,21886
+"Routt",2007,22415
+"Routt",2008,22931
+"Routt",2009,23325
 "Routt",2010,23439
 "Routt",2011,23237
 "Routt",2012,23257
@@ -546,9 +1759,31 @@
 "Routt",2014,24010
 "Routt",2015,24310
 "Routt",2016,24679
-"Routt",2017,268764
-"Routt",2018,268764
-"Routt",2019,268764
+"Saguache",1985,4400
+"Saguache",1986,4598
+"Saguache",1987,4785
+"Saguache",1988,4663
+"Saguache",1989,4639
+"Saguache",1990,4644
+"Saguache",1991,4732
+"Saguache",1992,4788
+"Saguache",1993,4826
+"Saguache",1994,4942
+"Saguache",1995,5270
+"Saguache",1996,5425
+"Saguache",1997,5492
+"Saguache",1998,5558
+"Saguache",1999,5765
+"Saguache",2000,5983
+"Saguache",2001,6083
+"Saguache",2002,6245
+"Saguache",2003,6279
+"Saguache",2004,6240
+"Saguache",2005,6284
+"Saguache",2006,6241
+"Saguache",2007,6159
+"Saguache",2008,6176
+"Saguache",2009,6126
 "Saguache",2010,6144
 "Saguache",2011,6184
 "Saguache",2012,6316
@@ -556,9 +1791,31 @@
 "Saguache",2014,6171
 "Saguache",2015,6219
 "Saguache",2016,6404
-"Saguache",2017,268764
-"Saguache",2018,268764
-"Saguache",2019,268764
+"San Juan",1985,763
+"San Juan",1986,754
+"San Juan",1987,811
+"San Juan",1988,747
+"San Juan",1989,746
+"San Juan",1990,736
+"San Juan",1991,711
+"San Juan",1992,574
+"San Juan",1993,540
+"San Juan",1994,563
+"San Juan",1995,571
+"San Juan",1996,579
+"San Juan",1997,570
+"San Juan",1998,555
+"San Juan",1999,557
+"San Juan",2000,561
+"San Juan",2001,566
+"San Juan",2002,599
+"San Juan",2003,615
+"San Juan",2004,635
+"San Juan",2005,645
+"San Juan",2006,672
+"San Juan",2007,686
+"San Juan",2008,698
+"San Juan",2009,687
 "San Juan",2010,709
 "San Juan",2011,693
 "San Juan",2012,692
@@ -566,9 +1823,31 @@
 "San Juan",2014,719
 "San Juan",2015,696
 "San Juan",2016,698
-"San Juan",2017,268764
-"San Juan",2018,268764
-"San Juan",2019,268764
+"San Miguel",1985,3189
+"San Miguel",1986,3374
+"San Miguel",1987,3463
+"San Miguel",1988,3557
+"San Miguel",1989,3612
+"San Miguel",1990,3732
+"San Miguel",1991,4130
+"San Miguel",1992,4565
+"San Miguel",1993,4864
+"San Miguel",1994,5305
+"San Miguel",1995,5489
+"San Miguel",1996,5804
+"San Miguel",1997,5953
+"San Miguel",1998,6453
+"San Miguel",1999,6533
+"San Miguel",2000,6615
+"San Miguel",2001,6900
+"San Miguel",2002,7042
+"San Miguel",2003,7010
+"San Miguel",2004,7027
+"San Miguel",2005,7045
+"San Miguel",2006,7059
+"San Miguel",2007,7276
+"San Miguel",2008,7304
+"San Miguel",2009,7267
 "San Miguel",2010,7356
 "San Miguel",2011,7477
 "San Miguel",2012,7570
@@ -576,9 +1855,31 @@
 "San Miguel",2014,7751
 "San Miguel",2015,7843
 "San Miguel",2016,8000
-"San Miguel",2017,268764
-"San Miguel",2018,268764
-"San Miguel",2019,268764
+"Sedgwick",1985,2991
+"Sedgwick",1986,2825
+"Sedgwick",1987,2793
+"Sedgwick",1988,2794
+"Sedgwick",1989,2734
+"Sedgwick",1990,2680
+"Sedgwick",1991,2670
+"Sedgwick",1992,2629
+"Sedgwick",1993,2649
+"Sedgwick",1994,2664
+"Sedgwick",1995,2650
+"Sedgwick",1996,2686
+"Sedgwick",1997,2731
+"Sedgwick",1998,2681
+"Sedgwick",1999,2719
+"Sedgwick",2000,2744
+"Sedgwick",2001,2694
+"Sedgwick",2002,2694
+"Sedgwick",2003,2715
+"Sedgwick",2004,2606
+"Sedgwick",2005,2578
+"Sedgwick",2006,2515
+"Sedgwick",2007,2422
+"Sedgwick",2008,2420
+"Sedgwick",2009,2376
 "Sedgwick",2010,2367
 "Sedgwick",2011,2367
 "Sedgwick",2012,2370
@@ -586,9 +1887,31 @@
 "Sedgwick",2014,2331
 "Sedgwick",2015,2389
 "Sedgwick",2016,2421
-"Sedgwick",2017,268764
-"Sedgwick",2018,268764
-"Sedgwick",2019,268764
+"Summit",1985,12865
+"Summit",1986,13274
+"Summit",1987,12406
+"Summit",1988,12498
+"Summit",1989,12718
+"Summit",1990,12940
+"Summit",1991,13471
+"Summit",1992,13840
+"Summit",1993,15194
+"Summit",1994,17107
+"Summit",1995,18270
+"Summit",1996,19396
+"Summit",1997,20349
+"Summit",1998,21281
+"Summit",1999,22568
+"Summit",2000,25709
+"Summit",2001,26293
+"Summit",2002,26514
+"Summit",2003,26706
+"Summit",2004,26707
+"Summit",2005,26623
+"Summit",2006,26839
+"Summit",2007,27163
+"Summit",2008,27464
+"Summit",2009,27783
 "Summit",2010,28073
 "Summit",2011,27954
 "Summit",2012,28213
@@ -596,9 +1919,31 @@
 "Summit",2014,29213
 "Summit",2015,29928
 "Summit",2016,30367
-"Summit",2017,268764
-"Summit",2018,268764
-"Summit",2019,268764
+"Teller",1985,11305
+"Teller",1986,11800
+"Teller",1987,12458
+"Teller",1988,12477
+"Teller",1989,12474
+"Teller",1990,12511
+"Teller",1991,12712
+"Teller",1992,13670
+"Teller",1993,14735
+"Teller",1994,15790
+"Teller",1995,16981
+"Teller",1996,18135
+"Teller",1997,19066
+"Teller",1998,19672
+"Teller",1999,20179
+"Teller",2000,21068
+"Teller",2001,21738
+"Teller",2002,21989
+"Teller",2003,22218
+"Teller",2004,22218
+"Teller",2005,22505
+"Teller",2006,22791
+"Teller",2007,23164
+"Teller",2008,23102
+"Teller",2009,23205
 "Teller",2010,23441
 "Teller",2011,23294
 "Teller",2012,23349
@@ -606,9 +1951,31 @@
 "Teller",2014,23402
 "Teller",2015,23431
 "Teller",2016,24154
-"Teller",2017,268764
-"Teller",2018,268764
-"Teller",2019,268764
+"Washington",1985,5396
+"Washington",1986,5194
+"Washington",1987,5187
+"Washington",1988,5142
+"Washington",1989,4951
+"Washington",1990,4804
+"Washington",1991,4783
+"Washington",1992,4886
+"Washington",1993,5144
+"Washington",1994,5221
+"Washington",1995,5236
+"Washington",1996,5221
+"Washington",1997,5210
+"Washington",1998,5155
+"Washington",1999,5024
+"Washington",2000,4936
+"Washington",2001,4899
+"Washington",2002,5259
+"Washington",2003,5140
+"Washington",2004,5060
+"Washington",2005,4995
+"Washington",2006,4981
+"Washington",2007,4927
+"Washington",2008,4802
+"Washington",2009,4777
 "Washington",2010,4815
 "Washington",2011,4789
 "Washington",2012,4716
@@ -616,9 +1983,31 @@
 "Washington",2014,4772
 "Washington",2015,4834
 "Washington",2016,4875
-"Washington",2017,268764
-"Washington",2018,268764
-"Washington",2019,268764
+"Weld",1985,130400
+"Weld",1986,129749
+"Weld",1987,131028
+"Weld",1988,131880
+"Weld",1989,131867
+"Weld",1990,131946
+"Weld",1991,135731
+"Weld",1992,140122
+"Weld",1993,145778
+"Weld",1994,151368
+"Weld",1995,157173
+"Weld",1996,161809
+"Weld",1997,166840
+"Weld",1998,172394
+"Weld",1999,177265
+"Weld",2000,183076
+"Weld",2001,192482
+"Weld",2002,198975
+"Weld",2003,207157
+"Weld",2004,214069
+"Weld",2005,223432
+"Weld",2006,231283
+"Weld",2007,238279
+"Weld",2008,244116
+"Weld",2009,248959
 "Weld",2010,254230
 "Weld",2011,258551
 "Weld",2012,263924
@@ -626,9 +2015,31 @@
 "Weld",2014,275845
 "Weld",2015,284571
 "Weld",2016,294397
-"Weld",2017,268764
-"Weld",2018,268764
-"Weld",2019,268764
+"Yuma",1985,9853
+"Yuma",1986,9583
+"Yuma",1987,9434
+"Yuma",1988,9564
+"Yuma",1989,9211
+"Yuma",1990,8947
+"Yuma",1991,9011
+"Yuma",1992,9001
+"Yuma",1993,9166
+"Yuma",1994,9276
+"Yuma",1995,9455
+"Yuma",1996,9521
+"Yuma",1997,9657
+"Yuma",1998,9799
+"Yuma",1999,9823
+"Yuma",2000,9815
+"Yuma",2001,9831
+"Yuma",2002,9947
+"Yuma",2003,10093
+"Yuma",2004,9885
+"Yuma",2005,9892
+"Yuma",2006,9917
+"Yuma",2007,9881
+"Yuma",2008,9895
+"Yuma",2009,10036
 "Yuma",2010,10032
 "Yuma",2011,10118
 "Yuma",2012,10082
@@ -636,198 +2047,3 @@
 "Yuma",2014,10178
 "Yuma",2015,10052
 "Yuma",2016,10082
-"Yuma",2017,268764
-"Yuma",2018,268764
-"Yuma",2019,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
-NULL,NULL,268764
