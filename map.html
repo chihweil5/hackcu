@@ -10,8 +10,8 @@
 .tooltip {
   position: absolute;
   text-align: center;
-  width: 400px;
-  height: 300px;
+  width: 500px;
+  height: 400px;
   padding: 3px;
   font: 15px sans-serif;
   background: lightsteelblue;
@@ -20,9 +20,21 @@
   pointer-events: none;
 }
 
+.chart {
+    border: 1px solid #ccc;
+    display: block;
+    margin: 0 auto;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+
 </style>
 <body>
-    <h1>Colorado Map</h1>
+    <h1>Colorado Voter Data</h1>
     <div id="map">
 	</div>
 </body>
@@ -51,7 +63,7 @@ var tooltip = d3.select("#map").append("div")
 
 d3.json("CO_Counties.json", function(error, co) {
   if (error) throw error;
-
+  console.log(co)
   svg.append("g")
       .attr("class", "counties")
       //.attr("transform", "translate(" + 600 + "," + 400 + ")")
@@ -64,13 +76,15 @@ d3.json("CO_Counties.json", function(error, co) {
                   .duration(200)
                   .style("fill", function(d) { return d3.rgb("orange")})
                   .style("opacity", 1); // animation
-          tooltip.html("<div id=\"image\"> </div>")
+          tooltip.html(tooltipContent())
             .style("left", (d3.event.pageX) + "px")
             .style("top", (d3.event.pageY - 28) + "px")
             .style("opacity", .9)
            .transition()
            .duration(200);
-           showContent();
+           var name = d.properties.NAME;
+           showContent(name);
+
           })
           .on("mouseout", function(d) {
               d3.select(this).transition()
@@ -79,12 +93,111 @@ d3.json("CO_Counties.json", function(error, co) {
     });
 });
 
+function tooltipContent(){
+    var html = `
+      <div id="population">
+        <div id="county">
+        </div>
+      </div>
+    `;
+    return html;
+}
 
 //query database
-function showContent() {
-    var text = "Hi"
+function showContent(name) {
     var imgsrc = "test.png";
-  $("#image").append("<p>" + text + "<p> </br> <img id=\"theImg\" src=\""+ imgsrc + "\" height=\"200\" width=\"350\"/>");
+    $("#county").append("<p>" + name + "<p>");
+    //$("#image").append( "<img id=\"theImg\" src=\""+ imgsrc + "\" height=\"200\" width=\"350\"/>");
+    showBarChart(name);
+}
+
+function showBarChart(name){
+    var margin = {top: 10, right: 20, bottom: 30, left: 60},
+                width = 450 - margin.left - margin.right,
+                height = 320 - margin.top - margin.bottom;
+    d3.csv("query_result.csv", function(data) {
+        // set the ranges
+        var x = d3.scaleTime().range([0, width]);
+        var y = d3.scaleLinear().range([height, 0]);
+        console.log(data);
+
+        // define tooltip
+        // var tooltip = d3.select("#scatterplot").append("div")
+        //         .attr("class", "tooltip")
+        //         .style("opacity", 0);
+        var county_data = new Array();
+        for(var d in data){
+            if( data[d].county === name && data[d].datayear < "2017") {
+                county_data.push(data[d]);
+            }
+        }
+        console.log(county_data);
+        // Add the svg canvas by id
+        var svg = d3.select("#population").append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+          .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+        // format the data
+        county_data.forEach(function(d) {
+          d.totalpopulation = +d.totalpopulation;  //+ tries to cast x to a number.
+        });
+
+        // Scale the range of the data, using d3.max to create y scale
+        x.domain(d3.extent(county_data, function(d) { return d.datayear; }));
+        y.domain([d3.min(county_data, function(d) { return d.totalpopulation; })-10, d3.max(county_data, function(d) { return d.totalpopulation; })]);
+        var valueline = d3.line()
+            .x(function(d) { return x(d.datayear); })
+            .y(function(d) { return y(d.totalpopulation); });
+        svg.append("path")
+            .data([county_data])
+            .attr("class", "line")
+            .attr("d", valueline);
+        // Add the scatterplot
+        svg.selectAll("dot")
+          .data(county_data)
+        .enter().append("circle")
+          .attr("r", 3)
+          .attr("cx", function(d) { return x(d.datayear); })
+          .attr("cy", function(d) { return y(d.totalpopulation); })
+          .style("fill", function(d) { return d3.rgb("darkblue")});
+          //on mouse click
+          // .on("click", function(d) {
+          //       console.log(d);
+          //       $("#scatterLabel")
+          //           .html("You click on: <br/> x = " + d.x + "<br/>" + "y = " + d.y + "<br/>") //add x, y info
+          //           .css("fontSize", "18px"); // change text size
+          //   })
+          // //on mouse hover
+          // .on("mouseover", function(d) {
+          //   d3.select(this).transition()
+          //           .duration(200)
+          //           .style("fill", function(d) { return d3.rgb("orangered")}) //change color to orange
+          //           .style("opacity", .9); // animation
+          //   tooltip.html("(" + d.x + ", " + d.y + ")")
+          //     .style("left", (d3.event.pageX) + "px")
+          //     .style("top", (d3.event.pageY - 28) + "px")
+          //     .style("opacity", .9)
+          //    .transition()
+          //    .duration(200);
+          //
+          //   })
+          // .on("mouseout", function(d) {
+          //   d3.select(this).transition()
+          //           .duration(500)
+          //           .style("fill", function(d) { return d3.rgb("darkblue")})
+          //   });
+
+        // Add the X Axis
+        svg.append("g")
+          .attr("transform", "translate(0," + height + ")")
+          .call(d3.axisBottom(x))
+
+        // Add the Y Axis
+        svg.append("g")
+          .call(d3.axisLeft(y));
+    });
 }
 
 </script>
