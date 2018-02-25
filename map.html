@@ -193,6 +193,9 @@ function showBarChart(name){
         svg.append("g")
           .attr("transform", "translate(0," + height + ")")
           .call(d3.axisBottom(x))
+          .selectAll("text")
+            .attr("transform", "rotate(65)")
+            .style("text-anchor", "start");
 
         // Add the Y Axis
         svg.append("g")
