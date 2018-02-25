@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<style>
+
+.counties {
+  fill: green;
+  fill-opacity: 0.5;
+  stroke: #FFF;
+}
+
+.tooltip {
+  position: absolute;
+  text-align: center;
+  width: 400px;
+  height: 300px;
+  padding: 3px;
+  font: 15px sans-serif;
+  background: lightsteelblue;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+</style>
+<body>
+    <h1>Colorado Map</h1>
+    <div id="map">
+	</div>
+</body>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/topojson.v1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script type="text/javascript">
+
+var margin = {top: 20, right: 20, bottom: 30, left: 60},
+                width = 1080 - margin.left - margin.right,
+                height = 720 - margin.top - margin.bottom;
+
+var svg = d3.select("#map")
+		.append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom);
+
+var projection = d3.geoAlbersUsa() // updated for d3 v4
+    .scale(7000)
+    .translate([width*1.5 , height/1.7]);
+var path = d3.geoPath().projection(projection);
+
+var tooltip = d3.select("#map").append("div")
+                    .attr("class", "tooltip")
+                    .style("opacity", 0);
+
+d3.json("CO_Counties.json", function(error, co) {
+  if (error) throw error;
+
+  svg.append("g")
+      .attr("class", "counties")
+      //.attr("transform", "translate(" + 600 + "," + 400 + ")")
+    .selectAll("path")
+    .data(topojson.feature(co, co.objects.cb_2015_colorado_county_20m).features)
+    .enter().append("path")
+      .attr("d", path)
+      .on("mouseover", function(d) {
+          d3.select(this).transition()
+                  .duration(200)
+                  .style("fill", function(d) { return d3.rgb("orange")})
+                  .style("opacity", 1); // animation
+          tooltip.html("<div id=\"image\"> </div>")
+            .style("left", (d3.event.pageX) + "px")
+            .style("top", (d3.event.pageY - 28) + "px")
+            .style("opacity", .9)
+           .transition()
+           .duration(200);
+           showContent();
+          })
+          .on("mouseout", function(d) {
+              d3.select(this).transition()
+                      .duration(500)
+                      .style("fill", function(d) { return d3.rgb("green")});
+    });
+});
+
+
+//query database
+function showContent() {
+    var text = "Hi"
+    var imgsrc = "test.png";
+  $("#image").append("<p>" + text + "<p> </br> <img id=\"theImg\" src=\""+ imgsrc + "\" height=\"200\" width=\"350\"/>");
+}
+
+</script>
