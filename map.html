@@ -46,7 +46,15 @@ body, html {
   stroke: steelblue;
   stroke-width: 2px;
 }
-
+.households,
+.population {
+    color: #0000aa;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.households{
+    color: #ee0000;
+}
 </style>
 </head>
 <body>
@@ -57,6 +65,10 @@ body, html {
         </div>
       </div>
     </nav>
+    <p>
+        <span class='population'>-----Population</span><br />
+        <span class='households'>-----Households</span>
+    </p>
     <div id="map">
 	</div>
 </body>
